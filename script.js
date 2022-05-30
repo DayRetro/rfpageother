@@ -80,8 +80,4 @@ $(function()
             $('.cmbCiudad').val() + '\n' +
 			$('.cmbocupacion').val());	
 	})
-	
-	function limpiarFormulario() {
-		document.getElementById("miForm").reset();
-	  }
 })
